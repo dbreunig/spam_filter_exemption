@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001662580758273*5920127597214656853,z0000001663628219329*2941474071925355901</id>
+	<updated>2022-09-19T22:57:35Z</updated>
+	<author>
+		<name>Drew Breunig</name>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<apps:property name='from' value='info@fighttherightpac.com'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
