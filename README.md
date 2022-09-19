@@ -30,7 +30,7 @@ Users will be presented with a more prominant 'unsubscribe' button, but who know
 
 This repository is an attempt to get ahead of this noise. It contains a file named `span_exemption_filters.xml` that will be updated as others file pull requests or issues. 
 
-###To use this file: 
+### To use this file: 
 
 - Download it to your computer.
 - Open the Gmail website and click the gear icon in the upper right corner.
